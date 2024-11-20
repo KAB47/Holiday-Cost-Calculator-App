@@ -19,11 +19,11 @@ The **Holiday Cost Calculator** is a Python-based application designed to help u
 ---
 
 ## How to Run  
-1. Clone or download the script to your local machine.  
-2. Open a terminal or command prompt and navigate to the script's directory.  
+1. Clone or download the .py file to your local machine.  
+2. Run the python file on your IDE or open a terminal or command prompt and navigate to the file's directory.  
 3. Run the script using the following command:  
    ```bash
-   python holiday_calculator.py
+   python main.py
 
 ---
 
