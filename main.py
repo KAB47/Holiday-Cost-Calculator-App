@@ -1,4 +1,4 @@
-ef get_city_price(city):# Library for the city prices
+def get_city_price(city):# Library for the city prices
     city_prices = {
         "Lisbon": 225,
         "London": 375,
